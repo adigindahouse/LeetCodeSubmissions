@@ -3,6 +3,8 @@ public class MajorityElement {
         return findCand(num);
     }
     
+    
+    //How to implement a logger
     //Return the the majority element
     public int findCand(int[] num){
         int majorityIndex = 0, count = 1;

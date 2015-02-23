@@ -1,9 +1,3 @@
-class TreeNode {
-	int val;
-	TreeNode left;
-	TreeNode right;
-	TreeNode(int x) { val = x; }
-}
 
 public class MaximumDepth {
 	public int maxDepth(TreeNode root) {

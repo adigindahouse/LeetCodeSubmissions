@@ -1,3 +1,4 @@
+package Trees;
 
 public class MaximumDepth {
 	public int maxDepth(TreeNode root) {

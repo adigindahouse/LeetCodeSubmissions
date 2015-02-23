@@ -1,3 +1,4 @@
+package Strings;
 public class BinarySum {
     public String addBinary(String a, String b) {
         int len1 = a.length();

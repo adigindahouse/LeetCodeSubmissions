@@ -1,3 +1,4 @@
+package Arrays;
 public class MajorityElement {
     public int majorityElement(int[] num) {
         return findCand(num);
